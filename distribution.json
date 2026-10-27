@@ -1,0 +1,13 @@
+{
+  "product": "Mac Image",
+  "version": "1.1.0",
+  "architecture": "arm64",
+  "kind": "trial",
+  "trial_enabled": true,
+  "trial_hours": 72,
+  "zip": "Mac Image - BLACK BOX.zip",
+  "sha256": "5ae956f10021aae31034cf9c4229ca9bcf240b37568cb2d88c583c9a0283e83f",
+  "bundle_id": "local.imageconverter.trial",
+  "signature_verified": true,
+  "no_user_or_trial_records": true
+}
